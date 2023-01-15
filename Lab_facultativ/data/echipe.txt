@@ -1,0 +1,2 @@
+1,Scoala "Nicolae Titulescu",Denver Nuggets
+2,Liceul Teoretic ELF,Miami Heat

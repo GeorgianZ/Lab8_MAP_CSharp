@@ -1,0 +1,15 @@
+F:\metAvansate\Lab8_MAP_CSharp\Lab_facultativ\bin\Debug\net7.0\Lab_facultativ.exe
+F:\metAvansate\Lab8_MAP_CSharp\Lab_facultativ\bin\Debug\net7.0\Lab_facultativ.deps.json
+F:\metAvansate\Lab8_MAP_CSharp\Lab_facultativ\bin\Debug\net7.0\Lab_facultativ.runtimeconfig.json
+F:\metAvansate\Lab8_MAP_CSharp\Lab_facultativ\bin\Debug\net7.0\Lab_facultativ.dll
+F:\metAvansate\Lab8_MAP_CSharp\Lab_facultativ\bin\Debug\net7.0\Lab_facultativ.pdb
+F:\metAvansate\Lab8_MAP_CSharp\Lab_facultativ\obj\Debug\net7.0\Lab_facultativ.csproj.AssemblyReference.cache
+F:\metAvansate\Lab8_MAP_CSharp\Lab_facultativ\obj\Debug\net7.0\Lab_facultativ.GeneratedMSBuildEditorConfig.editorconfig
+F:\metAvansate\Lab8_MAP_CSharp\Lab_facultativ\obj\Debug\net7.0\Lab_facultativ.AssemblyInfoInputs.cache
+F:\metAvansate\Lab8_MAP_CSharp\Lab_facultativ\obj\Debug\net7.0\Lab_facultativ.AssemblyInfo.cs
+F:\metAvansate\Lab8_MAP_CSharp\Lab_facultativ\obj\Debug\net7.0\Lab_facultativ.csproj.CoreCompileInputs.cache
+F:\metAvansate\Lab8_MAP_CSharp\Lab_facultativ\obj\Debug\net7.0\Lab_facultativ.dll
+F:\metAvansate\Lab8_MAP_CSharp\Lab_facultativ\obj\Debug\net7.0\refint\Lab_facultativ.dll
+F:\metAvansate\Lab8_MAP_CSharp\Lab_facultativ\obj\Debug\net7.0\Lab_facultativ.pdb
+F:\metAvansate\Lab8_MAP_CSharp\Lab_facultativ\obj\Debug\net7.0\Lab_facultativ.genruntimeconfig.cache
+F:\metAvansate\Lab8_MAP_CSharp\Lab_facultativ\obj\Debug\net7.0\ref\Lab_facultativ.dll
